@@ -1,0 +1,175 @@
+**********  Log started on: 01:39:02
+[01:39:02] <error> Cannot open config.txt file!
+[01:39:02] <error> Cannot open config.dat file!
+[01:39:02] <info> Operating system: Windows 10 (version 10.0.19042)
+[01:39:02] <info> Command line: "D:\SteamLibrary\steamapps\common\Euro Truck Simulator 2\bin\win_x64\eurotrucks2.exe"
+[01:39:02] <info> CPU: AMD Ryzen 5 5500                               
+[01:39:02] <info> Game: Euro Truck Simulator 2, 1.46.2.17
+[01:39:02] <info> Client: ETS2MP, 0.2.4.3.1 [e3967dae]
+[01:39:02] <info> Build time: Feb 20 2023 06:00:12
+[01:39:02] <info> [p3api] Base address: 00007FF52AA50000 Signature: 39c1386d38ec
+[01:39:02] <info> [ufs] Home directory: C:\Users\Kostya\Documents\ETS2MP
+[01:39:02] <info> [ufs] Data directory: F:\game\TruckersMP
+[01:39:02] <info> [net] [http async] Creating thread(s)[1]...
+[01:39:02] <info> [net] [http async] Thread(s) created.
+[01:39:02] <info> [client] Initialized successfully.
+[01:39:03] <info> [dx11] Display init.
+[01:39:03] <info> [inp] Keyboard input initialized. Input resolution = 1920x1080.
+[01:39:04] <info> [dx11] Device initialized.
+[01:39:04] <info> [inp] Mouse input initialized.
+[01:39:23] <info> [client] Game started.
+[01:39:23] <info> [codec] Initialization succeed
+[01:39:23] <info> [cb_radio] No microphone device set
+[01:39:24] <info> [cb_radio] Speaker initialized! : Динамики (2- High Definition Au
+[01:39:24] <error> [cb_radio] Cannot open muted.txt file for reading!
+[01:39:42] <info> [client] SteamID: 76561199028417030
+[01:40:01] <info> [client] Initializing gameplay...
+[01:40:17] <info> [client] Finished initializing gameplay.
+[01:42:08] <info> [dx11] Device shutdown.
+[01:42:08] <info> [dx11] Device deinitialized.
+[01:42:09] <info> [net] [http async] Exiting detached thread...
+[01:42:09] <info> [net] Deinitialized successfully.
+[01:42:09] <info> [client] Deinitialized successfully.
+**********  Log started on: 01:42:57
+[01:42:57] <info> Operating system: Windows 10 (version 10.0.19042)
+[01:42:57] <info> Command line: "D:\SteamLibrary\steamapps\common\Euro Truck Simulator 2\bin\win_x64\eurotrucks2.exe"
+[01:42:57] <info> CPU: AMD Ryzen 5 5500                               
+[01:42:57] <info> Game: Euro Truck Simulator 2, 1.46.2.17
+[01:42:57] <info> Client: ETS2MP, 0.2.4.3.1 [e3967dae]
+[01:42:57] <info> Build time: Feb 20 2023 06:00:12
+[01:42:57] <info> [p3api] Base address: 00007FF52AA50000 Signature: 39c1386d38ec
+[01:42:57] <info> [ufs] Home directory: C:\Users\Kostya\Documents\ETS2MP
+[01:42:57] <info> [ufs] Data directory: F:\game\TruckersMP
+[01:42:57] <info> [net] [http async] Creating thread(s)[1]...
+[01:42:57] <info> [net] [http async] Thread(s) created.
+[01:42:57] <info> [client] Initialized successfully.
+[01:42:59] <info> [dx11] Display init.
+[01:42:59] <info> [inp] Keyboard input initialized. Input resolution = 1920x1080.
+[01:42:59] <info> [dx11] Device initialized.
+[01:42:59] <info> [inp] Mouse input initialized.
+[01:43:04] <info> [client] Game started.
+[01:43:04] <info> [codec] Initialization succeed
+[01:43:04] <info> [cb_radio] No microphone device set
+[01:43:04] <info> [cb_radio] Speaker initialized! : Динамики (2- High Definition Au
+[01:43:08] <info> [client] SteamID: 76561199028417030
+[01:43:12] <info> [client] Initializing gameplay...
+[01:43:14] <info> [client] Finished initializing gameplay.
+[01:44:17] <info> [net] Initialized successfully.
+[01:44:17] <info> [net] Connecting to 145.239.131.35:42701.
+[01:44:18] <info> [net] Placed to the queue. Position in queue: 0
+[01:44:18] <info> [net] Updated the queue position: 0
+[01:44:24] <info> [net] Connection successfully established!
+[01:52:59] <info> [net] Shutdown successfully.
+[01:52:59] <info> [dx11] Device shutdown.
+[01:52:59] <info> [dx11] Device deinitialized.
+[01:52:59] <info> [net] [http async] Exiting detached thread...
+[01:52:59] <info> [net] Deinitialized successfully.
+[01:52:59] <info> [client] Deinitialized successfully.
+**********  Log started on: 01:53:23
+[01:53:23] <info> Operating system: Windows 10 (version 10.0.19042)
+[01:53:23] <info> Command line: "D:\SteamLibrary\steamapps\common\Euro Truck Simulator 2\bin\win_x64\eurotrucks2.exe"
+[01:53:23] <info> CPU: AMD Ryzen 5 5500                               
+[01:53:23] <info> Game: Euro Truck Simulator 2, 1.46.2.17
+[01:53:23] <info> Client: ETS2MP, 0.2.4.3.1 [e3967dae]
+[01:53:23] <info> Build time: Feb 20 2023 06:00:12
+[01:53:23] <info> [p3api] Base address: 00007FF52AA50000 Signature: 39c1386d38ec
+[01:53:23] <info> [ufs] Home directory: C:\Users\Kostya\Documents\ETS2MP
+[01:53:23] <info> [ufs] Data directory: F:\game\TruckersMP
+[01:53:23] <info> [net] [http async] Creating thread(s)[1]...
+[01:53:23] <info> [net] [http async] Thread(s) created.
+[01:53:23] <info> [client] Initialized successfully.
+[01:53:25] <info> [dx11] Display init.
+[01:53:25] <info> [inp] Keyboard input initialized. Input resolution = 1920x1080.
+[01:53:25] <info> [dx11] Device initialized.
+[01:53:25] <info> [inp] Mouse input initialized.
+[01:53:29] <info> [client] Game started.
+[01:53:29] <info> [codec] Initialization succeed
+[01:53:29] <info> [cb_radio] No microphone device set
+[01:53:29] <info> [cb_radio] Speaker initialized! : Динамики (2- High Definition Au
+[01:53:32] <info> [client] SteamID: 76561199028417030
+[01:55:36] <info> [client] Initializing gameplay...
+[01:55:40] <info> [client] Finished initializing gameplay.
+[01:56:01] <info> [net] Initialized successfully.
+[01:56:01] <info> [net] Connecting to 145.239.131.35:42701.
+[01:56:02] <info> [net] Placed to the queue. Position in queue: 2
+[01:56:04] <info> [net] Connection successfully established!
+[02:06:33] <warning> [p3api] [trailer] [chassis] Accessory does not exist... expect problems
+[02:06:53] <warning> [p3api] [trailer] [chassis] Accessory does not exist... expect problems
+**********  Log started on: 02:07:43
+[02:07:43] <info> Operating system: Windows 10 (version 10.0.19042)
+[02:07:43] <info> Command line: "D:\SteamLibrary\steamapps\common\Euro Truck Simulator 2\bin\win_x64\eurotrucks2.exe"
+[02:07:43] <info> CPU: AMD Ryzen 5 5500                               
+[02:07:43] <info> Game: Euro Truck Simulator 2, 1.46.2.17
+[02:07:43] <info> Client: ETS2MP, 0.2.4.3.1 [e3967dae]
+[02:07:43] <info> Build time: Feb 20 2023 06:00:12
+[02:07:43] <info> [p3api] Base address: 00007FF52AA50000 Signature: 39c1386d38ec
+[02:07:43] <info> [ufs] Home directory: C:\Users\Kostya\Documents\ETS2MP
+[02:07:43] <info> [ufs] Data directory: F:\game\TruckersMP
+[02:07:43] <info> [net] [http async] Creating thread(s)[1]...
+[02:07:43] <info> [net] [http async] Thread(s) created.
+[02:07:43] <info> [client] Initialized successfully.
+[02:07:45] <info> [dx11] Display init.
+[02:07:45] <info> [inp] Keyboard input initialized. Input resolution = 1920x1080.
+[02:07:45] <info> [dx11] Device initialized.
+[02:07:46] <info> [inp] Mouse input initialized.
+[02:07:50] <info> [client] Game started.
+[02:07:50] <info> [codec] Initialization succeed
+[02:07:50] <info> [cb_radio] No microphone device set
+[02:07:50] <info> [cb_radio] Speaker initialized! : Динамики (2- High Definition Au
+[02:07:53] <info> [client] SteamID: 76561199028417030
+[02:07:55] <info> [client] Initializing gameplay...
+[02:08:09] <info> [client] Finished initializing gameplay.
+[02:08:09] <info> [net] Initialized successfully.
+[02:08:09] <error> [net] Cannot initialize connection! No server data is present.
+[02:09:02] <info> [client] SteamID: 76561199028417030
+[02:09:25] <info> [client] Initializing gameplay...
+[02:09:27] <info> [client] Finished initializing gameplay.
+[02:09:27] <error> [net] NetClient initialization failed.
+[02:15:55] <info> [net] Shutdown successfully.
+[02:15:55] <info> [dx11] Device shutdown.
+[02:15:55] <info> [dx11] Device deinitialized.
+[02:15:56] <info> [net] [http async] Exiting detached thread...
+[02:15:56] <info> [net] Deinitialized successfully.
+[02:15:56] <info> [client] Deinitialized successfully.
+**********  Log started on: 02:16:19
+[02:16:19] <info> Operating system: Windows 10 (version 10.0.19042)
+[02:16:19] <info> Command line: "D:\SteamLibrary\steamapps\common\Euro Truck Simulator 2\bin\win_x64\eurotrucks2.exe"
+[02:16:19] <info> CPU: AMD Ryzen 5 5500                               
+[02:16:19] <info> Game: Euro Truck Simulator 2, 1.46.2.17
+[02:16:19] <info> Client: ETS2MP, 0.2.4.3.1 [e3967dae]
+[02:16:19] <info> Build time: Feb 20 2023 06:00:12
+[02:16:19] <info> [p3api] Base address: 00007FF52AA50000 Signature: 39c1386d38ec
+[02:16:19] <info> [ufs] Home directory: C:\Users\Kostya\Documents\ETS2MP
+[02:16:19] <info> [ufs] Data directory: F:\game\TruckersMP
+[02:16:19] <info> [net] [http async] Creating thread(s)[1]...
+[02:16:19] <info> [net] [http async] Thread(s) created.
+[02:16:19] <info> [client] Initialized successfully.
+[02:16:22] <info> [dx11] Display init.
+[02:16:22] <info> [inp] Keyboard input initialized. Input resolution = 1920x1080.
+[02:16:22] <info> [dx11] Device initialized.
+[02:16:22] <info> [inp] Mouse input initialized.
+[02:16:27] <info> [client] Game started.
+[02:16:27] <info> [codec] Initialization succeed
+[02:16:27] <info> [cb_radio] No microphone device set
+[02:16:27] <info> [cb_radio] Speaker initialized! : Динамики (2- High Definition Au
+[02:16:30] <info> [client] SteamID: 76561199028417030
+[02:16:51] <info> [client] Initializing gameplay...
+[02:16:53] <info> [client] Finished initializing gameplay.
+[02:17:05] <info> [client] SteamID: 76561199028417030
+[02:17:28] <info> [client] Initializing gameplay...
+[02:17:33] <info> [client] Finished initializing gameplay.
+[02:17:56] <info> [client] SteamID: 76561199028417030
+[02:19:07] <info> [client] Initializing gameplay...
+[02:19:12] <info> [client] Finished initializing gameplay.
+[02:19:27] <info> [net] Initialized successfully.
+[02:19:27] <info> [net] Connecting to 145.239.131.35:42701.
+[02:19:28] <info> [net] Placed to the queue. Position in queue: 0
+[02:19:28] <info> [net] Updated the queue position: 0
+[02:19:33] <info> [net] Connection successfully established!
+[02:20:16] <info> [net] Kicked from the server. Reason: Not enabled headlights while driving.
+[02:20:16] <info> [net] Shutdown successfully.
+[02:23:57] <info> [dx11] Device shutdown.
+[02:23:57] <info> [dx11] Device deinitialized.
+[02:23:58] <info> [net] [http async] Exiting detached thread...
+[02:23:58] <info> [net] Deinitialized successfully.
+[02:23:58] <info> [client] Deinitialized successfully.
